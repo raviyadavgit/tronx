@@ -1,6 +1,6 @@
 return {
     ["QUARTER"] = {
-        type = "VIP",
+        type = "BLOCKED",
         expiry = "2027-01-03",
         duration = 2160,
         valid = true,
