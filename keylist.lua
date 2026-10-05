@@ -1,30 +1,26 @@
 return {
     ["QUARTER"] = {
         type = "VIP",
-        expiry = "2027-12-31",
+        expiry = "NULL",
+        duration = 2160,
         valid = true,
         max_devices = 20,
         SLOT = "1"
     },
     ["DEMO123"] = {
         type = "DEMO",
-        expiry = "2026-08-01",
+        expiry = "NULL",
+        duration = 24,
         valid = true,
         max_devices = 5,
         SLOT = "2"
     },
     ["SINGLE_USER"] = {
         type = "VIP",
-        expiry = "2025-01-01",
+        expiry = "NULL",
+        duration = 720,
         valid = true,
         max_devices = 1,
         SLOT = "3"
-    },
-    ["BLOCKED"] = {
-        type = "BLOCKED",
-        expiry = "2026-12-31",
-        valid = false,
-        max_devices = 1,
-        SLOT = "0"
     }
 }
