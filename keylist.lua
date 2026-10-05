@@ -1,7 +1,7 @@
 return {
     ["QUARTER"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2027-01-03",
         duration = 2160,
         valid = true,
         max_devices = 20,
