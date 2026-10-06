@@ -22,5 +22,13 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "3"
+    },
+    ["TEST_TMP"] = {
+        type = "DEMO",
+        expiry = "NULL",
+        duration = 1,
+        valid = true,
+        max_devices = 1,
+        SLOT = "99"
     }
 }
