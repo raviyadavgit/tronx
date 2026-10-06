@@ -27,7 +27,7 @@ return {
         type = "VIP",
         expiry = "2026-10-06",
         duration = 2,
-        valid = false,
+        valid = true,
         max_devices = 1,
         SLOT = "4"
     }
