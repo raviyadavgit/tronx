@@ -25,7 +25,7 @@ return {
     },
     ["TRONX-3T74-PYM1"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-06",
         duration = 2,
         valid = true,
         max_devices = 1,
