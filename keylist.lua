@@ -33,7 +33,7 @@ return {
     },
     ["TRONX-RJPW-1DOW"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-06",
         duration = 2,
         valid = true,
         max_devices = 1,
