@@ -46,5 +46,13 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "6"
+    },
+    ["TRONX-OZ8U-RCEL"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 2,
+        valid = true,
+        max_devices = 100,
+        SLOT = "7"
     }
 }
