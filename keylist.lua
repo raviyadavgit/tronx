@@ -30,5 +30,13 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "4"
+    },
+    ["TRONX-RJPW-1DOW"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 2,
+        valid = true,
+        max_devices = 1,
+        SLOT = "5"
     }
 }
