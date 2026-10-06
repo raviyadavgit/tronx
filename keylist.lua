@@ -78,5 +78,13 @@ return {
         valid = true,
         max_devices = 10,
         SLOT = "10"
+    },
+    ["TRONX_SKIN_FREE"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 500,
+        SLOT = "11"
     }
 }
