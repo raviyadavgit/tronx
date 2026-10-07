@@ -94,5 +94,13 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "12"
+    },
+    ["ATEEQ_BHAI_SUFI"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 0,
+        valid = true,
+        max_devices = 2,
+        SLOT = "13"
     }
 }
