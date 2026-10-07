@@ -81,7 +81,7 @@ return {
     },
     ["TRONX_SKIN_FREE"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-08",
         duration = 24,
         valid = true,
         max_devices = 500,
