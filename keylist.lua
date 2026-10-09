@@ -121,7 +121,7 @@ return {
     },
     ["TRONX-AFYB-8M86"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-10",
         duration = 24,
         valid = true,
         max_devices = 100,
