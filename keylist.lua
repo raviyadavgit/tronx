@@ -118,5 +118,13 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "15"
+    },
+    ["TRONX-AFYB-8M86"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 100,
+        SLOT = "16"
     }
 }
