@@ -145,7 +145,7 @@ return {
     },
     ["TRONX-0MVV-GGUE"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-11",
         duration = 24,
         valid = true,
         max_devices = 100,
