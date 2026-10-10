@@ -142,5 +142,13 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "18"
+    },
+    ["TRONX-0MVV-GGUE"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 100,
+        SLOT = "19"
     }
 }
