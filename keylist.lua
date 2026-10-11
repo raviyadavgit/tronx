@@ -150,5 +150,13 @@ return {
         valid = true,
         max_devices = 100,
         SLOT = "19"
+    },
+    ["TRONX-2JO8-9Q1T"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 10,
+        SLOT = "20"
     }
 }
