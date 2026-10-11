@@ -150,13 +150,5 @@ return {
         valid = true,
         max_devices = 100,
         SLOT = "19"
-    },
-    ["TRONX-6HEX-F2M7"] = {
-        type = "VIP",
-        expiry = "2026-10-12",
-        duration = 24,
-        valid = true,
-        max_devices = 100,
-        SLOT = "20"
     }
 }
