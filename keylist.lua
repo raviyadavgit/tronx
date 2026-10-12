@@ -169,7 +169,7 @@ return {
     },
     ["TRONX-HMCS-249H"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-13",
         duration = 24,
         valid = true,
         max_devices = 100,
