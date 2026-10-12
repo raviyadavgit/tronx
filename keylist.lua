@@ -166,5 +166,13 @@ return {
         valid = true,
         max_devices = 2,
         SLOT = "21"
+    },
+    ["TRONX-HMCS-249H"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 100,
+        SLOT = "22"
     }
 }
