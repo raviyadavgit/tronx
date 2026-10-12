@@ -161,7 +161,7 @@ return {
     },
     ["TRONX-L2GD-V1WH"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-12-11",
         duration = 1440,
         valid = true,
         max_devices = 2,
