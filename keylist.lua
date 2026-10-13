@@ -182,5 +182,13 @@ return {
         valid = true,
         max_devices = 10,
         SLOT = "23"
+    },
+    ["TRONX-9AUA-CPDW"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 100,
+        SLOT = "24"
     }
 }
