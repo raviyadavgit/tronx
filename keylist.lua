@@ -169,7 +169,7 @@ return {
     },
     ["TURBO"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-11-12",
         duration = 720,
         valid = true,
         max_devices = 2,
