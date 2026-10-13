@@ -174,5 +174,13 @@ return {
         valid = true,
         max_devices = 2,
         SLOT = "1"
+    },
+    ["TRONX-F0D0-GBAC"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 10,
+        SLOT = "23"
     }
 }
