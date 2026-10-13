@@ -1,12 +1,4 @@
 return {
-    ["QUARTER"] = {
-        type = "VIP",
-        expiry = "2027-01-03",
-        duration = 2160,
-        valid = true,
-        max_devices = 20,
-        SLOT = "1"
-    },
     ["DEMO123"] = {
         type = "DEMO",
         expiry = "NULL",
