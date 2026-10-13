@@ -166,5 +166,13 @@ return {
         valid = true,
         max_devices = 100,
         SLOT = "22"
+    },
+    ["TURBO"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 720,
+        valid = true,
+        max_devices = 2,
+        SLOT = "1"
     }
 }
