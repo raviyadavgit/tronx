@@ -177,7 +177,7 @@ return {
     },
     ["TRONX-F0D0-GBAC"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-14",
         duration = 24,
         valid = true,
         max_devices = 10,
