@@ -193,7 +193,7 @@ return {
     },
     ["TRONX-0AM4-JM4U"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-15",
         duration = 24,
         valid = true,
         max_devices = 100,
