@@ -201,7 +201,7 @@ return {
     },
     ["TRONX-H5KB-JQEW"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-17",
         duration = 48,
         valid = true,
         max_devices = 200,
