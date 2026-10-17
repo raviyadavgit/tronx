@@ -214,5 +214,13 @@ return {
         valid = true,
         max_devices = 200,
         SLOT = "27"
+    },
+    ["PabinKandel_54321"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 0,
+        valid = true,
+        max_devices = 1,
+        SLOT = "28"
     }
 }
