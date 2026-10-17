@@ -206,5 +206,13 @@ return {
         valid = true,
         max_devices = 200,
         SLOT = "26"
+    },
+    ["TRONX-ONM0-DJW4"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 48,
+        valid = true,
+        max_devices = 200,
+        SLOT = "27"
     }
 }
