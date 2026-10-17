@@ -209,7 +209,7 @@ return {
     },
     ["TRONX-ONM0-DJW4"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-19",
         duration = 48,
         valid = true,
         max_devices = 200,
