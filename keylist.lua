@@ -225,7 +225,7 @@ return {
     },
     ["TRONX-889T-ZUJZ"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-22",
         duration = 72,
         valid = true,
         max_devices = 200,
