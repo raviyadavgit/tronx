@@ -222,5 +222,13 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "28"
+    },
+    ["@T_R_O_N_X"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 720,
+        valid = true,
+        max_devices = 1000,
+        SLOT = "29"
     }
 }
