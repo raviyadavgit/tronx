@@ -225,7 +225,7 @@ return {
     },
     ["@T_R_O_N_X"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-11-22",
         duration = 720,
         valid = true,
         max_devices = 1000,
