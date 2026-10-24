@@ -233,7 +233,7 @@ return {
     },
     ["TRONX-HJE9-5Z8U"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-25",
         duration = 24,
         valid = true,
         max_devices = 100,
