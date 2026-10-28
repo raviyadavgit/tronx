@@ -249,7 +249,7 @@ return {
     },
     ["TRONX-9MYS-SB36"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-29",
         duration = 24,
         valid = true,
         max_devices = 100,
