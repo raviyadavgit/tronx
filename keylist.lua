@@ -238,5 +238,13 @@ return {
         valid = true,
         max_devices = 100,
         SLOT = "30"
+    },
+    ["TRONX-WX74-D83N"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 1,
+        SLOT = "31"
     }
 }
