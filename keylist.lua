@@ -257,7 +257,7 @@ return {
     },
     ["TRONX-8HTD-PP2C"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-10-31",
         duration = 24,
         valid = true,
         max_devices = 1,
