@@ -262,5 +262,13 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "33"
+    },
+    ["TRONX-JG80-89TF"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 24,
+        valid = true,
+        max_devices = 2,
+        SLOT = "34"
     }
 }
