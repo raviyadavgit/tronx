@@ -265,7 +265,7 @@ return {
     },
     ["TRONX-JG80-89TF"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-11-01",
         duration = 24,
         valid = true,
         max_devices = 2,
