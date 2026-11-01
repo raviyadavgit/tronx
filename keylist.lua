@@ -273,7 +273,7 @@ return {
     },
     ["TRONX-N2O1-HMLE"] = {
         type = "VIP",
-        expiry = "NULL",
+        expiry = "2026-11-04",
         duration = 72,
         valid = true,
         max_devices = 100,
