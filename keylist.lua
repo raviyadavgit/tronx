@@ -270,5 +270,13 @@ return {
         valid = true,
         max_devices = 2,
         SLOT = "34"
+    },
+    ["TRONX-N2O1-HMLE"] = {
+        type = "VIP",
+        expiry = "NULL",
+        duration = 72,
+        valid = true,
+        max_devices = 100,
+        SLOT = "35"
     }
 }
